@@ -39,7 +39,7 @@ Mini Shell mimics the behavior of a standard Unix shell. It reads commands from 
 ### Build
 
 ```bash
-gcc -o minishell minishell.c
+gcc *c
 ```
 
 ### Run
