@@ -33,7 +33,7 @@ Mini Shell mimics the behavior of a standard Unix shell. It reads commands from 
 
 ### Prerequisites
 
-- A Linux (or Unix-like) operating system
+- A Linux operating system
 - GCC compiler
 
 ### Build
@@ -45,7 +45,7 @@ gcc -o minishell minishell.c
 ### Run
 
 ```bash
-./minishell
+./a.out
 ```
 
 ## Usage
