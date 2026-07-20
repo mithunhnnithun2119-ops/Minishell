@@ -47,19 +47,6 @@ gcc -o minishell minishell.c
 ```bash
 ./a.out
 ```
-
-## Usage
-
-```
-mini-shell$ ls -l
-mini-shell$ sleep 100 &
-mini-shell$ jobs
-[1]  Running    sleep 100 &
-mini-shell$ fg 1
-mini-shell$ cd ..
-mini-shell$ exit
-```
-
 ## Project Structure
 
 ```
